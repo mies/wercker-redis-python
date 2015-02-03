@@ -1,7 +1,6 @@
 import redis
 import os
 
-<<<<<<< HEAD
 print 'testing'
 print os.environ.get('WERCKER_REDIS_HOST', '127.0.0.1')
 
